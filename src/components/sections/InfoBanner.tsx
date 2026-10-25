@@ -16,3 +16,5 @@ function InfoBanner() {
     </aside>
   );
 }
+
+export default InfoBanner;
